@@ -1,0 +1,7 @@
+requests
+pandas
+python-dotenv
+openai
+sumy
+nltk
+googletrans==4.0.0-rc1
